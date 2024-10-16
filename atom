@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><feed
+	xmlns="http://www.w3.org/2005/Atom"
+	xmlns:thr="http://purl.org/syndication/thread/1.0"
+	xml:lang="en"
+	>
+	<title type="text">Denise Chandler</title>
+	<subtitle type="text">Web and Font Designer</subtitle>
+
+	<updated>2021-09-22T18:37:11Z</updated>
+
+	<link rel="alternate" type="text/html" href="https://denisechandler.com/" />
+	<id>https://denisechandler.com/feed/atom/</id>
+	<link rel="self" type="application/atom+xml" href="https://denisechandler.com/feed/atom/" />
+
+	<generator uri="https://wordpress.org/" version="6.6.2">WordPress</generator>
+<icon>https://denisechandler.com/wp-content/uploads/2021/10/cropped-favicon_new-32x32.png</icon>
+</feed>
